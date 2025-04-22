@@ -23,21 +23,20 @@ The primary goal of this project was to provide educators with detailed insights
 - Placement Overview: Users can open the placement file and view student and company placement details.
 
 ## Dashboard
-## Student Details
+## Student Report
 ![Screenshot (99)](https://github.com/Pradeep-kishore/Comprehensive-Student-and-Company-Placement-Insights-for-Educators/blob/main/SS1.png)
-Tools Used
 
-Power BI: Power BI Service and Power BI Pro were used for advanced features.
+## Placement Report
+![Screenshot (99)](https://github.com/Pradeep-kishore/Comprehensive-Student-and-Company-Placement-Insights-for-Educators/blob/main/SS2.png)
 
-Excel: Used for manual data entry by users.
+##Tools Used
+- Power BI: Power BI Service and Power BI Pro were used for advanced features.
+- Excel: Used for manual data entry by users.
 
-Project Insights
+## Project Insights
+- The system offers an in-depth view of individual student placements and company details.
+- It highlights trends in placements, including roles offered, salary details, and hiring modes.
+- Educators can track company participation in the placement process, as well as student success rates.
 
-The system offers an in-depth view of individual student placements and company details.
-
-It highlights trends in placements, including roles offered, salary details, and hiring modes.
-
-Educators can track company participation in the placement process, as well as student success rates.
-
-Final Conclusion
+## Final Conclusion
 This project effectively provides a detailed and interactive dashboard for educators, allowing them to easily analyze student placement data and company participation. By understanding placement trends and company-specific details, educators can refine placement strategies and offer better guidance to students. Future improvements could include predictive analytics to forecast placement trends and further enhance decision-making for educators.
