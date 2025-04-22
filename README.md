@@ -23,7 +23,8 @@ The primary goal of this project was to provide educators with detailed insights
 - Placement Overview: Users can open the placement file and view student and company placement details.
 
 ## Dashboard
-
+## Student Details
+![Screenshot (99)](https://github.com/Pradeep-kishore/Comprehensive-Student-and-Company-Placement-Insights-for-Educators/blob/main/SS1.png)
 Tools Used
 
 Power BI: Power BI Service and Power BI Pro were used for advanced features.
