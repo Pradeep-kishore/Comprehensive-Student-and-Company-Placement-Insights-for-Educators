@@ -13,18 +13,16 @@ The primary goal of this project was to provide educators with detailed insights
 - What are the details of students, including companies applied to, selected companies, roles, CTC, joining dates, statuses, and locations?
 - What are the company details, including sectors, roles offered, CTC, hiring mode, number of openings, and hiring date?
 
-Dashboard Interaction
-Click to view the dashboard
+- Dashboard Interaction <a href="https://github.com/Pradeep-kishore/Comprehensive-Student-and-Company-Placement-Insights-for-Educators/blob/main/Power%20BI.pbix">Dashboard View</a>
 
-Process
+## Process
 
-Data Entry: Fake data was used for initial testing; actual users will input collected data into an Excel sheet.
+- Data Entry: Fake data was used for initial testing; actual users will input collected data into an Excel sheet.
+- Authorization: Users will authenticate and access the Power BI dashboard via Microsoft Passkeys.
+- Data Refresh: Users will refresh Power BI to ensure they view the latest data.
+- Placement Overview: Users can open the placement file and view student and company placement details.
 
-Authorization: Users will authenticate and access the Power BI dashboard via Microsoft Passkeys.
-
-Data Refresh: Users will refresh Power BI to ensure they view the latest data.
-
-Placement Overview: Users can open the placement file and view student and company placement details.
+## Dashboard
 
 Tools Used
 
